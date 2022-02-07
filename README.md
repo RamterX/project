@@ -1,1 +1,1 @@
-- [x] #739 My first repository for my first project has been created
+- [x] My first repository for my first project has been created
